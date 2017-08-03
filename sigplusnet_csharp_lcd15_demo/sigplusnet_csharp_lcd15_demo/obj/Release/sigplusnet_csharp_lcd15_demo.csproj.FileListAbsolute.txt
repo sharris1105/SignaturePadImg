@@ -1,0 +1,92 @@
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\1.31.12 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Demos\2.0.0.18 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Demos\2.0.0.31 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Demos\2.0.0.32 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Demos\2.0.0.34 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Demos\2.0.0.36 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Demos\2.0.0.38 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Documents and Settings\JeffR\Desktop\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Demos\2.0.0.40 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.40 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\ResolveAssemblyReference.cache
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Demos\2.0.0.42 sigPlusNET Demos\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\Release\SigPlusNET.dll
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.exe
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.pdb
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\Release\sigplusnet_csharp_lcd15_demo.csprojResolveAssemblyReference.cache

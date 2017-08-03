@@ -1,0 +1,8 @@
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\x86\Debug\sigplusnet_csharp_lcd15_demo.exe
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\x86\Debug\sigplusnet_csharp_lcd15_demo.pdb
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\bin\x86\Debug\SigPlusNET.dll
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\x86\Debug\sigplusnet_csharp_lcd15_demo.Form1.resources
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\x86\Debug\sigplusnet_csharp_lcd15_demo.Properties.Resources.resources
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\x86\Debug\sigplusnet_csharp_lcd15_demo.csproj.GenerateResource.Cache
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\x86\Debug\sigplusnet_csharp_lcd15_demo.exe
+C:\Users\sharris\Downloads\sigplusnet_csharp_lcd15_demo\sigplusnet_csharp_lcd15_demo\obj\x86\Debug\sigplusnet_csharp_lcd15_demo.pdb
